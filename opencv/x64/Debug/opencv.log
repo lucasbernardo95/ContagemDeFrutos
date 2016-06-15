@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\lber\documents\visual studio 2015\projects\opencv\opencv\source.cpp(70): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\lber\documents\visual studio 2015\projects\opencv\opencv\source.cpp(71): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  opencv.vcxproj -> C:\Users\lber\documents\visual studio 2015\Projects\opencv\x64\Debug\opencv.exe
